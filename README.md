@@ -1,4 +1,4 @@
-# Mythril
+# Mythril-Search
 [![PyPI](https://badge.fury.io/py/mythril.svg)](https://pypi.python.org/pypi/mythril)
 [![Join the chat at https://gitter.im/ConsenSys/mythril](https://badges.gitter.im/ConsenSys/mythril.svg)](https://gitter.im/ConsenSys/mythril?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Master Build Status](https://img.shields.io/circleci/project/github/ConsenSys/mythril/master.svg)
