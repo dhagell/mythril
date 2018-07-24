@@ -23,7 +23,14 @@ Install from Pypi: TODO
 ```bash
 $ pip3 install mythril
 ```
-git clone https://github.com/dhagell/elasticsearch-myhtril
+
+
+Install Elastic Search: 
+
+```bash
+$ git clone https://github.com/dhagell/elasticsearch-myhtril
+```
+
 
 See the [Wiki](https://github.com/ConsenSys/mythril/wiki/Installation-and-Setup) for more detailed instructions. 
 
