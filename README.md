@@ -7,16 +7,17 @@
 <img height="120px" align="right" src="/static/mythril.png"/>
 
 Mythril is a security analysis tool for Ethereum smart contracts. It uses concolic analysis, taint analysis and control flow checking to detect a variety of security vulnerabilities.
+Mythril-Search adds an Elastic Search engine and REST API's 
 
 ## Installation and setup
 
-Get it with [Docker](https://www.docker.com):
+Get it with [Docker](https://www.docker.com): TODO
 
 ```bash
 $ docker pull mythril/myth
 ```
 
-Install from Pypi:
+Install from Pypi: TODO
 
 ```bash
 $ pip3 install mythril
