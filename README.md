@@ -7,7 +7,8 @@
 <img height="120px" align="right" src="/static/mythril.png"/>
 
 Mythril is a security analysis tool for Ethereum smart contracts. It uses concolic analysis, taint analysis and control flow checking to detect a variety of security vulnerabilities.
-Mythril-Search adds an Elastic Search engine and REST API's 
+
+Mythril-Search adds an Elastic Search engine and Rest API's using Flask
 
 ## Installation and setup
 
